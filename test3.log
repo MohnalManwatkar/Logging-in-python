@@ -1,0 +1,18 @@
+INFO 2023-07-09 13:54:50,615 root if the file is not open this exception block will execute
+INFO 2023-07-09 13:57:38,695 root if the file is not open this exception block will execute
+CRITICAL 2023-07-09 13:57:38,696 root this is a situation for us
+WARNING 2023-07-09 13:57:38,696 root this is a warning
+ERROR 2023-07-09 13:57:38,696 root [Errno 2] No such file or directory: 'sudh.text'
+Traceback (most recent call last):
+  File "C:\Users\swapn\PycharmProjects\Logging\test3.py", line 5, in <module>
+    with open("sudh.text", 'r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'sudh.text'
+INFO 2023-07-09 13:58:20,342 root if the file is not open this exception block will execute
+CRITICAL 2023-07-09 13:58:20,342 root this is a situation for us
+WARNING 2023-07-09 13:58:20,342 root this is a warning
+ERROR 2023-07-09 13:58:20,342 root [Errno 2] No such file or directory: 'sudh.text'
+ERROR 2023-07-09 13:58:20,342 root [Errno 2] No such file or directory: 'sudh.text'
+Traceback (most recent call last):
+  File "C:\Users\swapn\PycharmProjects\Logging\test3.py", line 5, in <module>
+    with open("sudh.text", 'r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'sudh.text'

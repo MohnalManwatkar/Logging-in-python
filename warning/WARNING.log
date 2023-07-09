@@ -1,0 +1,5 @@
+ERROR 2023-07-09 13:35:04,232 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\swapn\PycharmProjects\Logging\logging WARNING.py", line 8, in division
+    div = a/b
+ZeroDivisionError: division by zero

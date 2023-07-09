@@ -1,0 +1,14 @@
+INFO 2023-07-09 13:28:33,586 root the number entered by user is 3 and 0
+INFO 2023-07-09 13:28:33,587 root we are into the try block
+ERROR 2023-07-09 13:28:33,587 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\swapn\PycharmProjects\Logging\loffing DEBUG.py", line 8, in division
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2023-07-09 13:29:23,955 root the number entered by user is 3 and 9
+INFO 2023-07-09 13:29:23,955 root we are into the try block
+INFO 2023-07-09 13:29:23,955 root this line is print when div=a/b opration performs successflly
+INFO 2023-07-09 13:29:23,955 root result of the code is 0.3333333333333333INFO 2023-07-09 13:33:16,934 root the number entered by user is 3 and 9
+INFO 2023-07-09 13:33:16,934 root we are into the try block
+INFO 2023-07-09 13:33:16,934 root this line is print when div=a/b opration performs successflly
+INFO 2023-07-09 13:33:16,934 root result of the code is 0.3333333333333333
